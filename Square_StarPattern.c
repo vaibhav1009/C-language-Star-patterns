@@ -1,3 +1,15 @@
+/*
+Output:- 
+
+Enter the the size of square: 5
+* * * * *
+*       *
+*       *
+*       *
+* * * * *
+
+*/
+
 #include<stdio.h>
 
 int main()
